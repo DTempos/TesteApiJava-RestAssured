@@ -2,7 +2,7 @@
 
 # Introdução
 
-    - Projeto de automação de testes de API criado para o teste técnico da Renner
+    - Projeto de automação de testes de API criado para um teste técnico
 
 ### Tecnologias utilizadas
 
